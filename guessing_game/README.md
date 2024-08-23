@@ -9,3 +9,5 @@ Okay, let's imagine this code is like a fun guessing game! Here's how it works:
 The code is like a set of instructions that tells the computer how to play this game with you. It's using a special language called Rust that computers can understand.
 
 So, when you run this code, you'll be able to play this guessing game with your computer. It's a fun way to practice your number skills and have a little competition with the computer!
+
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
