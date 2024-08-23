@@ -1,1 +1,35 @@
 target/
+.cargo/# Ignore build artifacts
+target/
+.cargo/
+
+# Ignore editor-specific files
+*.suo
+*.user
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore test files
+**/tests/**/*.rs
+
+# Ignore coverage files
+coverage/
+
+# Ignore generated documentation
+docs/
+
+# Ignore external dependencies
+vendor/
+
+# Ignore compiled binaries
+*.exe
+*.dll
+*.so
+
+# Ignore lock files
+Cargo.lock
